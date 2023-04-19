@@ -412,7 +412,7 @@ img {
 }
 .social-list {
   display: flex;
-  gap: 24px;
+  gap: 16px;
 }
 .social-item {
   width: 40px;
