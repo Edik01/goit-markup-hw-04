@@ -80,7 +80,7 @@ img {
 .link-header {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.1;
 
   letter-spacing: 0.02em;
 
@@ -368,6 +368,7 @@ img {
 .footer .container {
   display: flex;
   align-items: baseline;
+  gap: 16px;
 }
 .logo-wrapper {
   margin-right: 120px;
